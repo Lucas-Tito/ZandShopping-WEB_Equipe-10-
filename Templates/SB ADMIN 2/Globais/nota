@@ -1,0 +1,5 @@
+O arquivo conexao.php consta em todas as páginas, é nesse arquivo que acontece a conexão com o Banco de Dados
+ (o conexao.php dessa pasta não está em uso)
+
+
+Já o arquivo cria banco é responsável por criar o Banco de Dados automaticamente
